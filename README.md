@@ -6,7 +6,6 @@ An intelligent recipe recommendation system that suggests Indian dishes based on
 - Ingredient-based recipe recommendations using TF-IDF vectorization and cosine similarity
 - Clean, modern UI with Streamlit
 - Recipe clustering using K-means algorithm
-- Google Sheets integration for recommendation logging
 - Preprocessing pipeline for ingredient text normalization
 
 **Tech Stack**
