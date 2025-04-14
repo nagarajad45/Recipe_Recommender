@@ -1,4 +1,4 @@
-**🍲 Indian Recipe Recommender AI**
+**🍲 Recipe Recommender AI**
 
 An intelligent recipe recommendation system that suggests Indian dishes based on available ingredients. Built with Python, Streamlit, and machine learning.
 
